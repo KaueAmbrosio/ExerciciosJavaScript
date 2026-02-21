@@ -1,3 +1,5 @@
+// DESAFIO - EXERCICIO - SISTEMA DE CARRINHO DE COMPRAS
+
 const carrinho = [
     { id: 1, nome: "Notebook", preco: 3000, quantidade: 1, promocao: true },
     { id: 2, nome: "Mouse", preco: 100, quantidade: 2, promocao: false },
