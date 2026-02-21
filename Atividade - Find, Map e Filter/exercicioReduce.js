@@ -5,7 +5,7 @@
 const valores = [100, 200, 50, 150];
 
 let totalvalores = valores.reduce((acumulador, total)=>{
-    return acumulador + total.nota;
+    return acumulador + total;
 },0);
 
 console.log("Valores somados: ", totalvalores);
